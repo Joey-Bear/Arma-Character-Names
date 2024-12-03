@@ -1,0 +1,74 @@
+class CfgWorlds
+{
+	class GenericNames
+	{
+		class SpanishMen
+		{
+			class FirstNames
+			{
+				juan="Juan";
+				hector="Hector";
+				gabriel="Gabriel";
+				manuel="Manuel";
+				orlando="Orlando";
+				salvador="Salvador";
+				roberto="Roberto";
+				hugo="Hugo";
+				santiago="Santiago";
+				felipe="Felipe";
+				diego="Diego";
+				emmanuel="Emmanuel";
+				julian="Julian";
+				fernando="Fernando";
+				jorge="Jorge";
+				ricardo="Ricardo";
+				raul="RaÃºl";
+				mario="Mario";
+				artuo="Artuo";
+				gerardo="Gerardo";
+				armando="Armando";
+				oscar="Oscar";
+				victor="Victor";
+				elijah="Elijah";
+				xavier="Xavier";
+				isaac="Isaac";
+				guillermo="Guillermo";
+				ramon="Ramon";
+				pablo="Pablo";
+				francisco="Francisco";
+				alfredo="Alfredo";
+				antonio="Antonio";
+				jose="Jose";
+				sebastian="Sebastian";
+				carlos="Carlos";
+				eduardo="Eduardo";
+			};
+			class LastNames
+			{
+				gonzalez="Gonzalez";
+				perez="Perez";
+				garcia="Garcia";
+				sanchez="Sanchez";
+				diaz="Diaz";
+				ramirez="Ramirez";
+				fernandez="Fernandez";
+				mendoza="Mendoza";
+				moreno="Moreno";
+				jimenez="Jimenez";
+				alvarez="Alvarez";
+				marquez="Marquez";
+				flores="Flores";
+				pena="Pena";
+				morales="Morales";
+				vargas="Vargas";
+				parra="Parra";
+				ramos="Ramos";
+				velasquez="Velasquez";
+				hernandez="Hernandez";
+				mendez="Mendez";
+				quintero="Quintero";
+				guzman="Guzman";
+			};
+		};		
+	};
+};
